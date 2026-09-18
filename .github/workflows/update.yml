@@ -3,10 +3,12 @@ name: Update Football
 on:
   repository_dispatch:
     types: [trigger-football-crawl]
+
   workflow_dispatch:
-  # Tùy chọn: Tự động chạy dự phòng mỗi 1 tiếng một lần
+
+  # Otomatis setiap 10 menit
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
 
 permissions:
   contents: write
