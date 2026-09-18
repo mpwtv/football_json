@@ -1,39 +1,36 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png!w80",13:00 | Bandirmaspor vs Umraniyespor
-https://live05.meung.app/live/75915087_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/c61c3199500be14782a4d533db7e52a2.png!w80",14:00 | Kyzylzhar vs Kaisar Kyzylorda
-https://live05.meung.app/live/18812304_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/1102270dc5201968f3eeffbc20da56bc.png!w80",15:00 | SJK vs IFK Mariehamn
-https://live05.meung.app/live/99121525_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",15:00 | CLB Lahti vs Jaro
-https://live05.meung.app/live/14830711_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/acd5e194c961b091fcf0065a5d27a8f8.png!w80",15:00 | FC UT Arad vs Sepsi
-https://live05.meung.app/live/87547578_tsc.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/348fa7d49029584354427690fe88f874.png!w80",16:00 | CLB AC Oulu vs Inter Turku
 https://live05.meung.app/live/33982309_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a19ee4a4454087b98d1f2bb9058a337e.png!w80",16:00 | CLB Gnistan Helsinki vs HJK
-https://live05.meung.app/live/16226575_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/fb6a5a8355f76699d49ce7b6446885ef.png!w80",16:30 | Greuther Furth vs CLB Magdeburg
-https://live05.meung.app/live/97885009_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",16:30 | VfL Wolfsburg vs Darmstadt
 https://live05.meung.app/live/07808742_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/fb6a5a8355f76699d49ce7b6446885ef.png!w80",16:30 | Greuther Furth vs CLB Magdeburg
+https://live05.meung.app/live/97885009_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a19ee4a4454087b98d1f2bb9058a337e.png!w80",16:00 | CLB Gnistan Helsinki vs HJK
+https://live05.meung.app/live/16226575_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/483f6ade158f44eb24849b6076377355.png!w80",17:00 | Kasimpasa vs Konyaspor
+https://live05.meung.app/live/18812304_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/97b182dc35a57e1fbfce5ab2382fe317.png!w80",17:00 | Sarpsborg vs KFUM Oslo
+https://live05.meung.app/live/75915087_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/98a1646fa8a5b6f02b0505cf3857f6d5.png!w80",18:00 | Groningen vs PEC Zwolle
 https://live05.meung.app/live/59444581_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",18:30 | FC Bayern München vs 1. FC Union Berlin
+https://live05.meung.app/live/99121525_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/214049d4df11756a2eb21bbd8266e2a1.png!w80",19:00 | CLB Espanyol vs Elche
 https://live05.meung.app/live/07428422_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80",19:00 | Câu lạc bộ bóng đá Brentford vs Chelsea
 https://live05.meung.app/live/78905744_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/053969e26d843de456e0265abd3f008a.png!w80",22:30 | CLB Vila Nova vs CLB America MG
+https://live05.meung.app/live/87547578_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f5bbc8573e1b019164b11b13c49598bd.png!w80",23:30 | New York City vs New York Red Bulls
 https://live05.meung.app/live/75748097_tsc.m3u8
@@ -50,6 +47,9 @@ https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80",01:00 | CLB Puebla vs CLB Atlante
 https://live05.meung.app/live/02456966_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80",03:00 | Juarez vs Tigres
+https://live05.meung.app/live/14830711_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80",05:30 | Oakleigh Cannons vs Avondale FC
 https://live05.meung.app/live/14707124_tsc.m3u8
 
@@ -59,108 +59,117 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/4ea0b8f9db593ba95bda607083a73944.png!w80",07:00 | Hồng Kông U23 vs Thái Lan U23
 https://live05.meung.app/live/08552895_tsc.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a93733afccd5ecc44060dac_06368351_20260918.png?v=06368351",Bình Định vs TP Hồ Chí Minh | 18:00 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789713222_hd/1789713222_hd@720p.m3u8
-
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db87048949e_8ed4e06a_20260918.png?v=8ed4e06a",Nantong Zhiyun vs Guangxi Hengchen | 18:30 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789713334_hd/1789713334_hd@720p.m3u8
-
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db87048951c_19c522fe_20260918.png?v=19c522fe",Madura United vs PSIM Yogyakarta | 19:00 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789715052_hd/1789715052_hd@720p.m3u8
-
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db870489505_45521d15_20260918.png?v=45521d15",Ayutthaya United vs Uthai Thani FC | 19:00 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789713417_hd/1789713417_hd@720p.m3u8
-
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536bca_ae782983_20260918.png?v=ae782983",FC Chelyabinsk vs Bashinformsvyaz-Dynamo Ufa | 21:00 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789713455_hd/1789713455_hd@720p.m3u8
-
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536bd2_707e0d53_20260918.png?v=707e0d53",Neftekhimik Nizhnekamsk vs Ural S.r. | 22:00 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789713594_hd/1789713594_hd@720p.m3u8
-
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536be3_12da1520_20260918.png?v=12da1520",Shinnik Yaroslavl vs KamAZ | 22:30 18/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536be3_12da1520_20260919.png?v=12da1520",Shinnik Yaroslavl vs KamAZ | 22:30 18/09
 https://eqr2hdarxfliv.vcdn.cloud/1789714181_hd/1789714181_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9c24d46db870489db4_c2e50421_20260918.png?v=c2e50421",Greuther Furth vs FC Magdeburg | 23:30 18/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9c24d46db870489db4_c2e50421_20260919.png?v=c2e50421",Greuther Furth vs FC Magdeburg | 23:30 18/09
 https://eqr2hdarxfliv.vcdn.cloud/1789719265_hd/1789719265_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b1f7_f3317959_20260918.png?v=f3317959",Bayern Munich vs Union Berlin | 01:30 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b1f7_f3317959_20260919.png?v=f3317959",Bayern Munich vs Union Berlin | 01:30 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789719648_hd/1789719648_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b2f2_0eaae05f_20260918.png?v=0eaae05f",Monza vs US Sassuolo Calcio | 01:45 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b2f2_0eaae05f_20260919.png?v=0eaae05f",Monza vs US Sassuolo Calcio | 01:45 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789719774_hd/1789719774_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b47a_bb340d3c_20260918.png?v=bb340d3c",Brentford vs Chelsea FC | 02:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b47a_bb340d3c_20260919.png?v=bb340d3c",Brentford vs Chelsea FC | 02:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789719936_hd/1789719936_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b48b_5ae00598_20260918.png?v=5ae00598",Espanyol vs Elche | 02:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b48b_5ae00598_20260919.png?v=5ae00598",Espanyol vs Elche | 02:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789720022_hd/1789720022_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/u4ttunz7ahg7_e53fc287_20260918.png?v=e53fc287",DC Power W vs Tampa Bay Sun W | 06:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/u4ttunz7ahg7_e53fc287_20260919.png?v=e53fc287",DC Power W vs Tampa Bay Sun W | 06:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789720297_hd/1789720297_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a93733afccd5ecc44060daf_47321892_20260918.png?v=47321892",Thanh Hóa vs Becamex Bình Dương | 17:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa524d46db87048b85f_58ec05a0_20260919.png?v=58ec05a0",Bucheon FC 1995 vs Gimcheon Sangmu | 14:30 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789749697_hd/1789749697_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a93733afccd5ecc44060daf_47321892_20260919.png?v=47321892",Thanh Hóa vs Becamex Bình Dương | 17:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789740601_hd/1789740601_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c5b6_11a13e57_20260918.png?v=11a13e57",Tottenham Hotspur vs Aston Villa | 18:30 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c5b6_11a13e57_20260919.png?v=11a13e57",Tottenham Hotspur vs Aston Villa | 18:30 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741328_hd/1789741328_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c696_f1d2c062_20260918.png?v=f1d2c062",Meizhou Hakka vs Hebei Gongfu | 18:30 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c696_f1d2c062_20260919.png?v=f1d2c062",Meizhou Hakka vs Hebei Gongfu | 18:30 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741124_hd/1789741124_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aaa24d46db87048c8a3_5089c7ad_20260918.png?v=5089c7ad",Osasuna vs Rayo Vallecano | 19:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aaa24d46db87048c8a3_5089c7ad_20260919.png?v=5089c7ad",Osasuna vs Rayo Vallecano | 19:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741350_hd/1789741350_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aad24d46db87048d2a5_ee5bba29_20260918.png?v=ee5bba29",Bologna vs Torino | 20:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aad24d46db87048d2a5_ee5bba29_20260919.png?v=ee5bba29",Bologna vs Torino | 20:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741389_hd/1789741389_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab024d46db87048dc05_ccad5a5e_20260918.png?v=ccad5a5e",Monchengladbach vs Mainz | 20:30 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab024d46db87048dc05_ccad5a5e_20260919.png?v=ccad5a5e",Monchengladbach vs Mainz | 20:30 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741420_hd/1789741420_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab124d46db87048e05b_1d455aa2_20260918.png?v=1d455aa2",Newcastle United vs Hull City | 21:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab124d46db87048e05b_1d455aa2_20260919.png?v=1d455aa2",Newcastle United vs Hull City | 21:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741546_hd/1789741546_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab124d46db87048e046_bbdea928_20260918.png?v=bbdea928",Everton vs Ipswich | 21:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab124d46db87048e046_bbdea928_20260919.png?v=bbdea928",Everton vs Ipswich | 21:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741581_hd/1789741581_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab124d46db87048e039_4fd824bc_20260918.png?v=4fd824bc",Brighton   Hove Albion vs Arsenal | 21:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab124d46db87048e039_4fd824bc_20260919.png?v=4fd824bc",Brighton   Hove Albion vs Arsenal | 21:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741633_hd/1789741633_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab724d46db87048f2ef_1b08c56a_20260918.png?v=1b08c56a",Athletic Bilbao vs Alaves | 21:15 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88ab724d46db87048f2ef_1b08c56a_20260919.png?v=1b08c56a",Athletic Bilbao vs Alaves | 21:15 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789741743_hd/1789741743_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/38567376_1365aca2_20260918.png?v=1365aca2",Zenit Petersburg vs Efes Pilsen | 21:00 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789714291_hd/1789714291_hd@720p.m3u8
-
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/33748372_2f42a337_20260918.png?v=2f42a337",Dubai vs Real Madrid Teka | 00:00 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/33748372_2f42a337_20260919.png?v=2f42a337",Dubai vs Real Madrid Teka | 00:00 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789719583_hd/1789719583_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/26325073_180df4ab_20260918.png?v=180df4ab",Minnesota Lynx vs New York Liberty | 06:30 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/26325073_180df4ab_20260919.png?v=180df4ab",Minnesota Lynx vs New York Liberty | 06:30 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789720399_hd/1789720399_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/27325074_f50643d8_20260918.png?v=f50643d8",Toronto Tempo vs Indiana Fever | 06:30 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/27325074_f50643d8_20260919.png?v=f50643d8",Toronto Tempo vs Indiana Fever | 06:30 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789720433_hd/1789720433_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/i2syadujaqdi_9aa2b7b6_20260918.png?v=9aa2b7b6",MIBR vs Magic | 17:00 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789723457_hd/1789723457_hd@720p.m3u8
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/25356379_8de2e7c8_20260919.png?v=8de2e7c8",Thailand (W) vs China (w) | 08:00 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789749373_hd/1789749373_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/62guyqgkw6jh_322871c8_20260918.png?v=322871c8",VIT vs FURIA | 00:30 19/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/28325075_6f0b1939_20260919.png?v=6f0b1939",Golden State Valkyries vs Portland Fire | 09:00 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789749451_hd/1789749451_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/12122276_f7ddfc37_20260919.png?v=f7ddfc37",Melbourne United vs Adelaide 36ers | 16:30 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789741804_hd/1789741804_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/13122277_e6b66550_20260919.png?v=e6b66550",Perth Wildcats vs South East Melbourne Phoenix | 18:30 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789742230_hd/1789742230_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/lfnsc5z6w02x_b19d00be_20260919.png?v=b19d00be",Ba Lan vs Latvia | 20:00 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789742991_hd/1789742991_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/4l60ox9edjzk_06da1b82_20260919.png?v=06da1b82",NRG vs Aurora | 22:00 18/09
+https://eqr2hdarxfliv.vcdn.cloud/1789742666_hd/1789742666_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/62guyqgkw6jh_322871c8_20260919.png?v=322871c8",VIT vs FURIA | 00:30 19/09
 https://eqr2hdarxfliv.vcdn.cloud/1789720948_hd/1789720948_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/larx8mie0sk2_87a9d6fb_20260918.png?v=87a9d6fb",ONE Friday Fights 171 vs The Inner Circle 31 | 18:30 18/09
-https://eqr2hdarxfliv.vcdn.cloud/1789368501_hd/1789368501_hd@720p.m3u8
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/h0x1kjcflqz0_5e228a05_20260919.png?v=5e228a05",JDG vs IG | 16:00 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789743111_hd/1789743111_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ty1nn69th37m_f8d4c999_20260918.png?v=f8d4c999",Van vs Pantoja 2 | 04:00 20/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/63dnkraa7s64_8684dc18_20260919.png?v=8684dc18",Hàn Quốc vs Mỹ | 16:00 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789743261_hd/1789743261_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ty1nn69th37m_f8d4c999_20260919.png?v=f8d4c999",Van vs Pantoja 2 | 04:00 20/09
 https://eqr2hdarxfliv.vcdn.cloud/1789368564_hd/1789368564_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260918.png?v=9f063d9a",Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260919.png?v=9f063d9a",Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09
 https://eqr2hdarxfliv.vcdn.cloud/1789368641_hd/1789368641_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260918.png?v=dc760bd5",ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260919.png?v=dc760bd5",ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09
 https://eqr2hdarxfliv.vcdn.cloud/1789368699_hd/1789368699_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/hbxb5hmfy6ng_db1b1409_20260918.png?v=db1b1409",Rosas Jr. vs Barcelos | 02:00 27/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/hbxb5hmfy6ng_db1b1409_20260919.png?v=db1b1409",Rosas Jr. vs Barcelos | 02:00 27/09
 https://eqr2hdarxfliv.vcdn.cloud/1789368755_hd/1789368755_hd@720p.m3u8
 
-#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260918.png?v=a0d829ba",Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | 06:00 30/09
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260919.png?v=a0d829ba",Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | 06:00 30/09
 https://eqr2hdarxfliv.vcdn.cloud/1789368893_hd/1789368893_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ku67mw6r0sqk_2fc543e2_20260919.png?v=2fc543e2",Arizona Diamondbacks vs New York Yankees | 08:40 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789749791_hd/1789749791_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/bl6sufl2u044_6cac71cd_20260919.png?v=6cac71cd",San Diego Padres vs Miami Marlins | 08:40 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789749833_hd/1789749833_hd@720p.m3u8
+
+#EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/rjnzsaxnkdy1_0c55e3a0_20260919.png?v=0c55e3a0",Los Angeles Dodgers vs San Francisco Giants | 09:15 19/09
+https://eqr2hdarxfliv.vcdn.cloud/1789749878_hd/1789749878_hd@720p.m3u8
 
