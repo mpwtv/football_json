@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   # Tùy chọn: Tự động chạy dự phòng mỗi 1 tiếng một lần
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '*/5 * * * *'
 
 permissions:
   contents: write
