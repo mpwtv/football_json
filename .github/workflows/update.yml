@@ -6,14 +6,13 @@ on:
 
   workflow_dispatch:
 
-  # Otomatis setiap 10 menit
   schedule:
     - cron: '*/10 * * * *'
 
 permissions:
   contents: write
+  actions: read
 
-# Nâng cao: Tự động hủy luồng đang chạy dở nếu có tín hiệu mới gửi tới, tránh sung đột Git
 concurrency:
   group: update-football-group
   cancel-in-progress: true
@@ -23,39 +22,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 1. Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           persist-credentials: true
 
-      - name: 2. Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: 3. Install dependencies
-        run: |
+      - run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: 4. Run Python script
-        run: python crawl.py
+      - run: python crawl.py
 
-      - name: 5. Commit and Push changes
-        env:
-          # Cài đặt múi giờ Việt Nam cho log commit
-          TZ: 'Asia/Ho_Chi_Minh'
+      - name: Commit and Push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add tv.m3u full.m3u channels.json
-          
-          # Kiểm tra nếu thực sự có thay đổi mới thực hiện commit và push
-          if ! git diff --cached --quiet; then
-            git commit -m "⚡ Auto update streams - $(date '+%d/%m/%Y %H:%M:%S')"
-            git push
-            echo "✅ Files updated and pushed successfully!"
-          else
-            echo "ℹ️ No changes to commit."
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
           fi
+
+          git commit -m "⚡ Auto update streams"
+          git push origin HEAD:${GITHUB_REF#refs/heads/}
