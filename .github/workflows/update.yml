@@ -4,9 +4,9 @@ on:
   repository_dispatch:
     types: [trigger-football-crawl]
   workflow_dispatch:
-  # Tùy chọn: Tự động chạy dự phòng mỗi 3 tiếng một lần
+  # Tùy chọn: Tự động chạy dự phòng mỗi 1 tiếng một lần
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */1 * * *'
 
 permissions:
   contents: write
